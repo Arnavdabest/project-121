@@ -1,0 +1,19 @@
+body{
+    background-color:saddlebrown;
+ }
+ 
+ img{
+     height:170px;
+     width:170px;
+ } 
+
+#footer{
+    position:fixed;
+    width:100%;
+    bottom:0;
+    font-size: 22px;
+    background-color: firebrick;
+    text-align: center;
+    line-height: 3;
+    color:gray;
+}
